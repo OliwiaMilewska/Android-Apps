@@ -1,7 +1,7 @@
 # Kotlin
 Here are some of my first attempts to learn how to make mobile apps. 
 
-<--- firstProject --->
+<--- FirstProject --->
 It's a simple basic todo list
 
 <--- ChatApp --->
